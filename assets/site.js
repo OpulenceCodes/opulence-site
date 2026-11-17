@@ -1,6 +1,6 @@
 // Opulence Media Agency site script
 // Google Analytics: paste your measurement ID (looks like G-XXXXXXXXXX) between the quotes to switch it on.
-var GA_ID = '';
+var GA_ID = 'G-G9040NR5YC';
 var CONTACT_EMAIL = 'david@opulencemediaagency.com';
 
 (function () {

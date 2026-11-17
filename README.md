@@ -24,7 +24,7 @@ The Vercel project is connected to this repository, so every push to `main` depl
    - Optional `CONTACT_TO`: where enquiries go. Defaults to david@opulencemediaagency.com.
    - Optional `CONTACT_FROM`: sender address on a domain you have verified in Resend, for example `Opulence website <hello@opulencemediaagency.com>`. Without it, Resend's test sender is used, which only delivers to the email address on your Resend account. Verify your domain in Resend before launch.
 2. **Vercel Web Analytics.** In the Vercel project open Analytics and click Enable. The script is already on every page.
-3. **Google Analytics.** Open `assets/site.js` and paste your measurement ID (looks like `G-XXXXXXXXXX`) into `GA_ID` on the third line.
+3. **Google Analytics.** Measurement ID `G-G9040NR5YC` is set in `assets/site.js` (`GA_ID`, third line).
 
 ## If your domain is not opulencemediaagency.com
 
